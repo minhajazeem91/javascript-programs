@@ -4,11 +4,11 @@ const thirdNum = prompt("Enter Third Number");
 const fourthNum = prompt("Enter Fourth Number");
 const fifthNum = prompt("Enter Fifth Number");
 
-console.log("First Number :", firstNum);
-console.log("Second Number :", secNum);
-console.log("Third Number :", thirdNum);
-console.log("Fourth Number :", fourthNum);
-console.log("Fifth Number :", fifthNum);
+console.log("First Number : ", firstNum);
+console.log("Second Number : ", secNum);
+console.log("Third Number : ", thirdNum);
+console.log("Fourth Number : ", fourthNum);
+console.log("Fifth Number : ", fifthNum);
 
 
 console.log("larger Number is :", Math.max(firstNum, secNum, thirdNum, fourthNum, fifthNum));
